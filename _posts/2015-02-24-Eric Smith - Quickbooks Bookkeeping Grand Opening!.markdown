@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Quickbooks Bookkeeping -- Grand Opening!"
-subtitle:   ""
+subtitle:   "We provide the service that you can count on!"
 description: "Full service bookkeeping -- serving the Bangor Area"
 date:       2015-07-05
 author:     "Eric Smith"
