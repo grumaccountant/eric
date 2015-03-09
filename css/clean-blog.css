@@ -37,10 +37,10 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: black;
+  border-color: white;
 }
 .navbar-custom {
-  background: black;
+  background: white;
   position: absolute;
   top: 0;
   left: 0;
@@ -63,7 +63,7 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: black;
+    color: white;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -71,7 +71,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: black;
+    color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -140,7 +140,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: black;
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -194,7 +194,7 @@ hr.small {
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: black;
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -336,7 +336,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:focus {
   background-color: #0085a1;
   border: 1px solid #0085a1;
-  color: black;
+  color: white;
 }
 .pager {
   margin: 20px 0 0;
@@ -349,7 +349,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: black;
+  background-color: white;
   border-radius: 0;
 }
 @media only screen and (min-width: 768px) {
@@ -361,7 +361,7 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a:hover,
 .pager li > a:focus {
-  color: black;
+  color: white;
   background-color: #0085a1;
   border: 1px solid #0085a1;
 }
@@ -374,21 +374,21 @@ form .row:first-child .floating-label-form-group {
   cursor: not-allowed;
 }
 ::-moz-selection {
-  color: black;
+  color: white;
   text-shadow: none;
   background: #0085a1;
 }
 ::selection {
-  color: black;
+  color: white;
   text-shadow: none;
   background: #0085a1;
 }
 img::selection {
-  color: black;
+  color: white;
   background: transparent;
 }
 img::-moz-selection {
-  color: black;
+  color: white;
   background: transparent;
 }
 body {
