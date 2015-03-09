@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Nonprofit customization of donor statements”
-subtitle:   "Using Quickbooks as a one-stop shop for donor information”
-description: "Full service bookkeeping -- serving the Bangor Area"
-date:       2015-03-09
-author:     "Eric Smith"
-header-img: "img/mar.jpg"
+title:      "SEO for your Jekyll blog"
+subtitle:   "Improve search engine optimization for your blog"
+description: "Learn how to optimize your Jekyll blog posts for search engines"
+date:       2014-10-21
+author:     "Vincent Daubry"
+header-img: "img/Mar.jpg"
 ---
 
 Donor statements run from Quickbooks?  Yes it can!
