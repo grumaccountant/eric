@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Eric Smith - Quickbooks Bookkeeping Grand Opening!"
-subtitle:   "Serving the Bangor area"
-description: "Quickbooks is a fantastic accounting software that is customized to meet your small business needs.”
+subtitle:   "Quickbooks is a fantastic accounting software that is customized to meet your small business needs.”
+description: "Full service bookkeeping -- serving the Bangor Area"
 date:       2015-07-04
 author:     "Eric Smith"
 header-img: "img/jul.jpg"
