@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Nonprofit customization of donor statements”
-subtitle:   "Improve search engine optimization for your blog"
+title:      "Nonprofit customization of donor contributions”
+subtitle:   "Using Quickbooks as a one-stop shop for donor information”
 description: "Full service bookkeeping -- serving the Bangor Area"
 date:       2015-03-09
 author:     "Eric Smith"
