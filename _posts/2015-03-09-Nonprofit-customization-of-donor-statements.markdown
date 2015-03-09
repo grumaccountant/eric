@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "SEO for your Jekyll blog"
-subtitle:   "Improve search engine optimization for your blog"
-description: "Learn how to optimize your Jekyll blog posts for search engines"
+title:      "Nonprofit customization of donor statements”
+subtitle:   "Using Quickbooks as a one-stop shop for donor information”
+description: "Donor statements"
 date:       2015-03-09
 author:     "Eric Smith"
 header-img: "img/Mar.jpg"
