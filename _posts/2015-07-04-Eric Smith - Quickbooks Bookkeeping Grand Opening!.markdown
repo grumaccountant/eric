@@ -6,7 +6,7 @@ description: "Full service bookkeeping -- Serving the Greater Bangor Area"
 
 date:       2015-07-04
 author:     "Eric Smith"
-header-img: "img/Sep.jpg"
+header-img: "img/Dec.jpg"
 ---
 <img scr="/img//posts/architecture-2012.jpg" width="800">
 Introduction
