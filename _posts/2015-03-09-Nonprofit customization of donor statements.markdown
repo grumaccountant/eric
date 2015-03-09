@@ -5,7 +5,7 @@ subtitle:   "Using Quickbooks as a one-stop shop for donor information”
 description: "Full service bookkeeping -- serving the Bangor Area"
 date:       2015-03-09
 author:     "Eric Smith"
-header-img: "img/Mar.jpg"
+header-img: "img/mar.jpg"
 ---
 Donor statements run from Quickbooks?  Yes it can!
 When I worked in public accounting many non-profit organizations used separate software to manage their donor lists for fund raising, contributions, capital campaigns, and pledges such as Giftworks, eTapestry, Raiser’s Edge, or other specialized products.  Using a second software package often resulted in differences between Quickbooks and the other software.  There is nothing more frustrating than providing inconsistent information to donors.  
