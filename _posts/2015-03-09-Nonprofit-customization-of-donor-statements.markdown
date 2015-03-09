@@ -16,7 +16,7 @@ One of the little known features in Quickbooks is that most information can be q
 2.	 One system results in cost savings.
 3.	 Hassle free installation and operation.   
 
-A company called BigRed Consulting has developed a fairly innovative solution to query payment data from an existing Quickbooks file into donor ready statements.  Check out their information below which is complete with screenshots of their product line.
-http://bigredconsulting.com/products/donor-statements-for-quickbooks/
+A company called BigRed Consulting has developed a fairly innovative solution to query payment data from an existing Quickbooks file into donor ready statements.  Check out their <a href:"http://bigredconsulting.com/products/donor-statements-for-quickbooks/">information</a> below which is complete with screenshots of their product line.
+
 
 Contact me if you would like guidance or assistance with generating donor statements using Quickbooks as customer relationship management tool.
