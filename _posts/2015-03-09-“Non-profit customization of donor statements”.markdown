@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Nonprofit customization of donor statements”
+title:      "Nonpzrofit customization of donor statements”
 subtitle:   "Using Quickbooks as a one-stop shop for donor information”
 description: "Full service bookkeeping -- serving the Bangor Area"
 date:       2015-03-09
