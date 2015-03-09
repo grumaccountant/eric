@@ -5,7 +5,7 @@ subtitle:   "Using Quickbooks as a one-stop shop for donor information"
 description: "Donor statements"
 date:       2015-03-09
 author:     "Eric Smith"
-header-img: "img/Mar.jpg"
+header-img: "img/Jan.jpg"
 ---
 
 Donor statements run from Quickbooks?  Yes it can!
