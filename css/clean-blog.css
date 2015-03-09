@@ -374,21 +374,21 @@ form .row:first-child .floating-label-form-group {
   cursor: not-allowed;
 }
 ::-moz-selection {
-  color: white;
+  color: black;
   text-shadow: none;
   background: #0085a1;
 }
 ::selection {
-  color: white;
+  color: black;
   text-shadow: none;
   background: #0085a1;
 }
 img::selection {
-  color: white;
+  color: black;
   background: transparent;
 }
 img::-moz-selection {
-  color: white;
+  color: black;
   background: transparent;
 }
 body {
