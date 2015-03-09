@@ -20,3 +20,5 @@ A company called BigRed Consulting has developed a fairly innovative solution to
 
 
 Contact me if you would like guidance or assistance with generating donor statements using Quickbooks as customer relationship management tool.
+
+You want to start a personal blog, keep it simple and have a nice visual result? In this article we will see how to set up a blog with [jekyll](http://jekyllrb.com/), add a good looking theme, and host it on [github pages](https://pages.github.com/)
