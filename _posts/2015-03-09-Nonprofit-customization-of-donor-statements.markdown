@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "SEO for your Jekyll blog"
+title:      "Nonprofit customization of donor payment histories"
 subtitle:   "Improve search engine optimization for your blog"
 description: "Learn how to optimize your Jekyll blog posts for search engines"
 date:       2015-03-09
