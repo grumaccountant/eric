@@ -17,5 +17,10 @@ permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-60569533-1'
+
 gems:
   - jekyll-sitemap
