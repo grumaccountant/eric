@@ -6,7 +6,7 @@ description: "Full service bookkeeping -- Serving the Greater Bangor Area"
 
 date:       2015-03-14
 author:     "Eric Smith"
-header-img: "img/Jul.jpg"
+header-img: "img/Mar.jpg"
 ---
 
 Ever get tired of manual data entry into the Quickbooks system?
