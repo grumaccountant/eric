@@ -1,14 +1,14 @@
 # Site settings
-title: oldtownaccountant.github.io
+title: grumaccountant.github.io/eric
 email: ericsmith.accountant@yahoo.com
 author: Eric Smith
 description: "Eric Smith - Quickbooks Bookkeeping"
-baseurl: ""
-url: "oldtownaccountant.github.io"
+baseurl: "/eric"
+url: "grumacountant.github.io/eric"
 twitter_username: eric_accountant
-github_username:  oldtownaccountant
+github_username:  grumaccountant
 linkedin_username: ericrsmith
-facebook_username: eric_accountant
+facebook_username: eric.accountant
 
 # Build settings
 markdown: kramdown
@@ -16,6 +16,11 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
+
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-60569533-1'
 
 gems:
   - jekyll-sitemap
