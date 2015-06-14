@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Are you budgeting with Quickbooks?"
+title:      "Are you budgeting with Quickbooks"
 subtitle:   "Useful tools with minimal time commitments"
 description: "Quickbooks Budgeting"
 date:       2015-01-02
@@ -17,5 +17,4 @@ A budget in Quickbooks should not be input in January and ignored until December
 I recommend the creation of a budgeting model in excel that can be affected by different revenue and cost drivers... 
 so what you might have assumed in January may not be true in May or November.  Quickbooks can read the excel information and adjust itself to those changing conditions so that you do not have to repeatedly re-do the data entry inside Quickbooks.  
 
-I believe its important to have quality budget information inside Quickbooks without the hassle of the data entry.   
-
+I believe its important to have quality budget information inside Quickbooks without the hassle of the data entry.  

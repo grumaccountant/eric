@@ -1,12 +1,12 @@
 # Site settings
-title: getaccountant.github.io/eric
+title: grumaccountant.github.io/eric
 email: ericsmith.accountant@yahoo.com
 author: Eric Smith
 description: "Eric Smith - Quickbooks Bookkeeping"
 baseurl: "/eric"
-url: "oldtownaccountant.github.io"
+url: "grumacountant.github.io/eric"
 twitter_username: eric_accountant
-github_username:  getaccountant
+github_username:  grumaccountant
 linkedin_username: ericrsmith
 facebook_username: eric.accountant
 
