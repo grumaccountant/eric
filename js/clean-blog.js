@@ -63,7 +63,7 @@ $(function() {
     });
 });
 
-// Navigation Scripts to Show Header on Scroll-Up
+// Navigation Scripts to Show Header on Scroll-Ups
 jQuery(document).ready(function($) {
     var MQL = 1170;
 
