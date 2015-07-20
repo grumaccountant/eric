@@ -22,6 +22,6 @@ Of course there was a Master test frame that used light bulb small lights to sig
 Other Exhibits
 <p>
 Other exhibits include the telephone building and system for Frenchboro, which was installed by Jeffrey Webber, Independent Telephone of Bangor. Also there are working models of Magneto boards, a common battery board, and rows of acid batteries.  In addition, they have a Strowger system which replaced the need for switchboard operators.
-<p><p align="middle">
+<p><p>
 <img src="/eric/imgblog/1.png" width="500">
 
