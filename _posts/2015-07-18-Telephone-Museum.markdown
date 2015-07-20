@@ -25,7 +25,13 @@ Other exhibits include the telephone building and system for Frenchboro, which w
 
 <p><p align=middle>
 <middle>
-<table align=middle align=center border=5><tr align=center align=middle><td align=center align=middle>
+
+<table
+{ 
+margin-left: auto;
+margin-right: auto;
+}
+align=middle align=center border=5><tr align=center align=middle><td align=center align=middle>
 
 <img style="border:20px outset silver;" src="/imgblog/1.png" width=500"/>
 
