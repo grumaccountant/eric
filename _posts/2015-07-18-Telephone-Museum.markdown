@@ -16,7 +16,7 @@ Crossbar #5 System
 <p> 
 The Crossbar #5 system at the museum is about an eighth the size of the original and is operates electro-mechanically almost like a first computer.  This is very interesting due to the use of magnetic connections that carry signal pulses.  
 There are bays that hold line link frames using a 10 x 20 matrix of switches.  These incoming trunk circuits relied on switches to connect to incoming registers.  The tones would be counted in counting switches and directed to other relays to complete the call.  The crossbar system used a series of connector relays to connect to dial tone markers.  Each relay box could hold only one dialed digit.  So two-out-of-five code allowed for a possible combination of 10 digits.  
-The advantage of the Crossbar #5 system allowed for multiple components to be used at one time, which was an improvement from the Strowger invented ìstep-by-stepî system which required a ìdirect connectî path with selectors, which means only forward paths were allowed.
+The advantage of the Crossbar #5 system allowed for multiple components to be used at one time, which was an improvement from the Strowger invented ‚Äústep-by-step‚Äù system which required a ‚Äúdirect connect‚Äù path with selectors, which means only forward paths were allowed.
 Of course there was a Master test frame that used light bulb small lights to signal when there was a problem.  The Crossbar #5 originated out of the need to connect small towns with only a few thousand lines and still fascinates all today. 
 <p>
 Other Exhibits
