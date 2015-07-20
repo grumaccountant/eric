@@ -23,7 +23,8 @@ Other Exhibits
 <p>
 Other exhibits include the telephone building and system for Frenchboro, which was installed by Jeffrey Webber, Independent Telephone of Bangor. Also there are working models of Magneto boards, a common battery board, and rows of acid batteries.  In addition, they have a Strowger system which replaced the need for switchboard operators.
 
-<p>
+<p><p align=middle>
+<middle>
 <img src="/imgblog/1.png" width="500" border=5 align=middle>
 
 </p></p></p></p></p>
