@@ -31,5 +31,3 @@ Other exhibits include the telephone building and system for Frenchboro, which w
 
 
 
-</p></p></p></p></p>
-
